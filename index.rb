@@ -1,3 +1,3 @@
 require "colorize"
 
-puts "THIS IS AWESOME GIT!".colorize(color: :red, background: :yellow)
+puts "THIS IS AWESOME GIT!".colorize(color: :white, background: :blue)
